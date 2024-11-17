@@ -4,19 +4,19 @@ A very simple tic-tac-toe game built using React v18.
 
 ## Installation
 
-1. Clone the repository
+Clone the repository
 
 ```bash
 git clone
 ```
 
-2. Install dependencies
+Install dependencies
 
 ```bash
 npm install
 ```
 
-3. Start the development server
+Start the development server
 
 ```bash
 npm start
